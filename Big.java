@@ -11,7 +11,7 @@ if((f1>f2)&&(f1>f3))
 {
 System.out.println("f1 is greater");
 }
-else if(f2>f3)
+else if(f2>f1)
 {
 System.out.println("f2 is greater");
 }
