@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Big{
+public class Grt{
 public static void main(String[]args){
 int f1,f2,f3;
 Scanner sc=new Scanner(System.in);
